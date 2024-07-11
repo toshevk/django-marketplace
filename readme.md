@@ -9,11 +9,16 @@ skills.
 The Marketplace app is designed to resemble a classic e-commerce website.
 Main features include:
 
-**User creation and authentication**: After creation through a sign-up page, each user can access an admin page to create
+**User Creation and Authentication**: After creation through a sign-up page, each user can access an admin page to create
 products they want to sell, which will be displayed on the main page.
 
-**Product creation and editing**: Products can be managed through the **item dashboard**. Products' attributes include
-category, title, description, image, and price.
+**Product Creation**: New items can be added to the Marketplace by users through the New Item form.
+
+**User Dashboard**: Each user can access their dashboard and see all the items they have created. Through this dashboard,
+items can be added, edited, or deleted.
+
+**Browse Items**: All the items in the Marketplace can be browsed through the Browse function. Browse also has search
+functionality, which can also be used in combination with filters to narrow the item category when searching.
 
 ### Technology
 Main technology used is **Django** 5.0.6. Using Django I set up the entire project and the backend functionality.
