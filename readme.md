@@ -6,20 +6,20 @@ products, add listings, and make purchases. The app supports basic user authenti
 shopping cart, simulating the essential features of an e-commerce marketplace.
 
 ## Technologies Used
-**Django**: A Python backend framework for web applications.
-**SQLite**: The database used to store user and product data.
-**HTML5/CSS3**: Used for creating the structure and styling of the frontend.
-**JavaScript**: For interactivity in the frontend (e.g., dynamic updating of cart and listings).
-**Tailwind CSS**: A CSS framework for responsive and mobile-first web design.
-**Git**: Version control for tracking changes in the project.
+- **Django**: A Python backend framework for web applications.
+- **SQLite**: The database used to store user and product data.
+- **HTML5/CSS3**: Used for creating the structure and styling of the frontend.
+- **JavaScript**: For interactivity in the frontend (e.g., dynamic updating of cart and listings).
+- **Tailwind CSS**: A CSS framework for responsive and mobile-first web design.
+- **Git**: Version control for tracking changes in the project.
 
 ## Features
-**User Authentication**: Users can create accounts, log in, and log out.
-**Marketplace Listings**: Users can browse, add, edit, and delete product listings.
-**Product Search**: Search for products by name, category, or price range.
-**User Profiles**: Users can view and edit their profiles, and see their purchased products.
-**User Inbox**: Users can send messages to the sellers using the built-in messaging system.
-**Admin Interface**: An admin dashboard for managing users, products, and orders.
+- **User Authentication**: Users can create accounts, log in, and log out.
+- **Marketplace Listings**: Users can browse, add, edit, and delete product listings.
+- **Product Search**: Search for products by name, category, or price range.
+- **User Profiles**: Users can view and edit their profiles, and see their purchased products.
+- **User Inbox**: Users can send messages to the sellers using the built-in messaging system.
+- **Admin Interface**: An admin dashboard for managing users, products, and orders.
 
 ## Installation
 To set up this project locally, follow the steps below:
@@ -49,6 +49,6 @@ you can commit and push to your fork. Opened pull requests will be reviewed as s
 This project is open-source and available under the **MIT License**.
 
 ## Acknowledgements
-**Django** and the **Django REST Framework** for providing powerful tools for backend development that saved me A TON of time.
-**Tailwind CSS** for simplifying the front-end design process
-Inspiration from existing various marketplace and e-commerce apps
+- **Django** and the **Django REST Framework** for providing powerful tools for backend development that saved me A TON of time.
+- **Tailwind CSS** for simplifying the front-end design process
+- Inspiration from existing various marketplace and e-commerce apps
